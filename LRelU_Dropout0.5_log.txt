@@ -1,0 +1,300 @@
+Epoch : 0
+Epoch: 0	Batch: 0	Avg-Loss: 0.0128
+Epoch: 0	Batch: 250	Avg-Loss: 2.6293
+Epoch: 0	Batch: 500	Avg-Loss: 2.3717
+Epoch: 0	Batch: 750	Avg-Loss: 1.9606
+Epoch: 0	Batch: 1000	Avg-Loss: 1.6269
+Epoch: 0	Batch: 1250	Avg-Loss: 1.4145
+Epoch: 0	Batch: 1500	Avg-Loss: 1.3459
+Epoch: 0	Batch: 1750	Avg-Loss: 1.2513
+Epoch: 0	Batch: 2000	Avg-Loss: 1.2162
+Epoch: 0	Batch: 2250	Avg-Loss: 1.1656
+Epoch: 0	Batch: 2500	Avg-Loss: 1.1553
+Epoch: 0	Batch: 2750	Avg-Loss: 1.1362
+Epoch: 0	Batch: 3000	Avg-Loss: 1.0969
+Epoch: 0	Batch: 3250	Avg-Loss: 1.0808
+Epoch: 0	Batch: 3500	Avg-Loss: 1.0572
+Epoch: 0	Batch: 3750	Avg-Loss: 1.0536
+Epoch: 0	 Avg-Train-Loss: 1.4151
+Epoch: 0	 Avg-Valid-Loss: 0.8695
+Epoch: 0	 Valid_Accuracy: 0.7434
+Epoch : 1
+Epoch: 1	Batch: 0	Avg-Loss: 0.0041
+Epoch: 1	Batch: 250	Avg-Loss: 0.9917
+Epoch: 1	Batch: 500	Avg-Loss: 0.9951
+Epoch: 1	Batch: 750	Avg-Loss: 0.9860
+Epoch: 1	Batch: 1000	Avg-Loss: 0.9800
+Epoch: 1	Batch: 1250	Avg-Loss: 0.9656
+Epoch: 1	Batch: 1500	Avg-Loss: 0.9778
+Epoch: 1	Batch: 1750	Avg-Loss: 0.9843
+Epoch: 1	Batch: 2000	Avg-Loss: 0.9772
+Epoch: 1	Batch: 2250	Avg-Loss: 0.9764
+Epoch: 1	Batch: 2500	Avg-Loss: 0.9360
+Epoch: 1	Batch: 2750	Avg-Loss: 0.9696
+Epoch: 1	Batch: 3000	Avg-Loss: 0.9325
+Epoch: 1	Batch: 3250	Avg-Loss: 0.9336
+Epoch: 1	Batch: 3500	Avg-Loss: 0.9472
+Epoch: 1	Batch: 3750	Avg-Loss: 0.9458
+Epoch: 1	 Avg-Train-Loss: 0.9663
+Epoch: 1	 Avg-Valid-Loss: 0.8345
+Epoch: 1	 Valid_Accuracy: 0.7512
+Epoch : 2
+Epoch: 2	Batch: 0	Avg-Loss: 0.0034
+Epoch: 2	Batch: 250	Avg-Loss: 0.8907
+Epoch: 2	Batch: 500	Avg-Loss: 0.9134
+Epoch: 2	Batch: 750	Avg-Loss: 0.8924
+Epoch: 2	Batch: 1000	Avg-Loss: 0.8914
+Epoch: 2	Batch: 1250	Avg-Loss: 0.8954
+Epoch: 2	Batch: 1500	Avg-Loss: 0.8848
+Epoch: 2	Batch: 1750	Avg-Loss: 0.8787
+Epoch: 2	Batch: 2000	Avg-Loss: 0.9027
+Epoch: 2	Batch: 2250	Avg-Loss: 0.8852
+Epoch: 2	Batch: 2500	Avg-Loss: 0.8867
+Epoch: 2	Batch: 2750	Avg-Loss: 0.8887
+Epoch: 2	Batch: 3000	Avg-Loss: 0.8597
+Epoch: 2	Batch: 3250	Avg-Loss: 0.8625
+Epoch: 2	Batch: 3500	Avg-Loss: 0.8893
+Epoch: 2	Batch: 3750	Avg-Loss: 0.8816
+Epoch: 2	 Avg-Train-Loss: 0.8873
+Epoch: 2	 Avg-Valid-Loss: 0.8084
+Epoch: 2	 Valid_Accuracy: 0.7574
+Epoch : 3
+Epoch: 3	Batch: 0	Avg-Loss: 0.0028
+Epoch: 3	Batch: 250	Avg-Loss: 0.8061
+Epoch: 3	Batch: 500	Avg-Loss: 0.8120
+Epoch: 3	Batch: 750	Avg-Loss: 0.7831
+Epoch: 3	Batch: 1000	Avg-Loss: 0.7738
+Epoch: 3	Batch: 1250	Avg-Loss: 0.7688
+Epoch: 3	Batch: 1500	Avg-Loss: 0.7779
+Epoch: 3	Batch: 1750	Avg-Loss: 0.7744
+Epoch: 3	Batch: 2000	Avg-Loss: 0.7690
+Epoch: 3	Batch: 2250	Avg-Loss: 0.7683
+Epoch: 3	Batch: 2500	Avg-Loss: 0.7724
+Epoch: 3	Batch: 2750	Avg-Loss: 0.7617
+Epoch: 3	Batch: 3000	Avg-Loss: 0.7628
+Epoch: 3	Batch: 3250	Avg-Loss: 0.7702
+Epoch: 3	Batch: 3500	Avg-Loss: 0.7793
+Epoch: 3	Batch: 3750	Avg-Loss: 0.7633
+Epoch: 3	 Avg-Train-Loss: 0.7753
+Epoch: 3	 Avg-Valid-Loss: 0.7791
+Epoch: 3	 Valid_Accuracy: 0.7869
+Epoch : 4
+Epoch: 4	Batch: 0	Avg-Loss: 0.0024
+Epoch: 4	Batch: 250	Avg-Loss: 0.7415
+Epoch: 4	Batch: 500	Avg-Loss: 0.7454
+Epoch: 4	Batch: 750	Avg-Loss: 0.7350
+Epoch: 4	Batch: 1000	Avg-Loss: 0.7490
+Epoch: 4	Batch: 1250	Avg-Loss: 0.7321
+Epoch: 4	Batch: 1500	Avg-Loss: 0.7465
+Epoch: 4	Batch: 1750	Avg-Loss: 0.7365
+Epoch: 4	Batch: 2000	Avg-Loss: 0.7305
+Epoch: 4	Batch: 2250	Avg-Loss: 0.7451
+Epoch: 4	Batch: 2500	Avg-Loss: 0.7458
+Epoch: 4	Batch: 2750	Avg-Loss: 0.7314
+Epoch: 4	Batch: 3000	Avg-Loss: 0.7351
+Epoch: 4	Batch: 3250	Avg-Loss: 0.7549
+Epoch: 4	Batch: 3500	Avg-Loss: 0.7375
+Epoch: 4	Batch: 3750	Avg-Loss: 0.7481
+Epoch: 4	 Avg-Train-Loss: 0.7412
+Epoch: 4	 Avg-Valid-Loss: 0.6741
+Epoch: 4	 Valid_Accuracy: 0.7900
+Epoch : 5
+Epoch: 5	Batch: 0	Avg-Loss: 0.0029
+Epoch: 5	Batch: 250	Avg-Loss: 0.7145
+Epoch: 5	Batch: 500	Avg-Loss: 0.7278
+Epoch: 5	Batch: 750	Avg-Loss: 0.7087
+Epoch: 5	Batch: 1000	Avg-Loss: 0.7358
+Epoch: 5	Batch: 1250	Avg-Loss: 0.7134
+Epoch: 5	Batch: 1500	Avg-Loss: 0.6999
+Epoch: 5	Batch: 1750	Avg-Loss: 0.7054
+Epoch: 5	Batch: 2000	Avg-Loss: 0.7011
+Epoch: 5	Batch: 2250	Avg-Loss: 0.7312
+Epoch: 5	Batch: 2500	Avg-Loss: 0.6977
+Epoch: 5	Batch: 2750	Avg-Loss: 0.7017
+Epoch: 5	Batch: 3000	Avg-Loss: 0.7202
+Epoch: 5	Batch: 3250	Avg-Loss: 0.7051
+Epoch: 5	Batch: 3500	Avg-Loss: 0.7037
+Epoch: 5	Batch: 3750	Avg-Loss: 0.7014
+Epoch: 5	 Avg-Train-Loss: 0.7111
+Epoch: 5	 Avg-Valid-Loss: 0.6479
+Epoch: 5	 Valid_Accuracy: 0.7916
+Epoch : 6
+Epoch: 6	Batch: 0	Avg-Loss: 0.0027
+Epoch: 6	Batch: 250	Avg-Loss: 0.7008
+Epoch: 6	Batch: 500	Avg-Loss: 0.7033
+Epoch: 6	Batch: 750	Avg-Loss: 0.7107
+Epoch: 6	Batch: 1000	Avg-Loss: 0.7069
+Epoch: 6	Batch: 1250	Avg-Loss: 0.7306
+Epoch: 6	Batch: 1500	Avg-Loss: 0.7003
+Epoch: 6	Batch: 1750	Avg-Loss: 0.6975
+Epoch: 6	Batch: 2000	Avg-Loss: 0.6998
+Epoch: 6	Batch: 2250	Avg-Loss: 0.7081
+Epoch: 6	Batch: 2500	Avg-Loss: 0.7011
+Epoch: 6	Batch: 2750	Avg-Loss: 0.7045
+Epoch: 6	Batch: 3000	Avg-Loss: 0.7107
+Epoch: 6	Batch: 3250	Avg-Loss: 0.7019
+Epoch: 6	Batch: 3500	Avg-Loss: 0.6948
+Epoch: 6	Batch: 3750	Avg-Loss: 0.7196
+Epoch: 6	 Avg-Train-Loss: 0.7056
+Epoch: 6	 Avg-Valid-Loss: 0.7420
+Epoch: 6	 Valid_Accuracy: 0.7823
+Epoch : 7
+Epoch: 7	Batch: 0	Avg-Loss: 0.0018
+Epoch: 7	Batch: 250	Avg-Loss: 0.7116
+Epoch: 7	Batch: 500	Avg-Loss: 0.7039
+Epoch: 7	Batch: 750	Avg-Loss: 0.7037
+Epoch: 7	Batch: 1000	Avg-Loss: 0.7023
+Epoch: 7	Batch: 1250	Avg-Loss: 0.7061
+Epoch: 7	Batch: 1500	Avg-Loss: 0.7184
+Epoch: 7	Batch: 1750	Avg-Loss: 0.6947
+Epoch: 7	Batch: 2000	Avg-Loss: 0.7035
+Epoch: 7	Batch: 2250	Avg-Loss: 0.7104
+Epoch: 7	Batch: 2500	Avg-Loss: 0.6909
+Epoch: 7	Batch: 2750	Avg-Loss: 0.6915
+Epoch: 7	Batch: 3000	Avg-Loss: 0.6942
+Epoch: 7	Batch: 3250	Avg-Loss: 0.7002
+Epoch: 7	Batch: 3500	Avg-Loss: 0.7121
+Epoch: 7	Batch: 3750	Avg-Loss: 0.7025
+Epoch: 7	 Avg-Train-Loss: 0.7028
+Epoch: 7	 Avg-Valid-Loss: 0.8293
+Epoch: 7	 Valid_Accuracy: 0.7792
+Epoch : 8
+Epoch: 8	Batch: 0	Avg-Loss: 0.0023
+Epoch: 8	Batch: 250	Avg-Loss: 0.7108
+Epoch: 8	Batch: 500	Avg-Loss: 0.7046
+Epoch: 8	Batch: 750	Avg-Loss: 0.6838
+Epoch: 8	Batch: 1000	Avg-Loss: 0.6938
+Epoch: 8	Batch: 1250	Avg-Loss: 0.6952
+Epoch: 8	Batch: 1500	Avg-Loss: 0.6943
+Epoch: 8	Batch: 1750	Avg-Loss: 0.6884
+Epoch: 8	Batch: 2000	Avg-Loss: 0.7048
+Epoch: 8	Batch: 2250	Avg-Loss: 0.6933
+Epoch: 8	Batch: 2500	Avg-Loss: 0.7166
+Epoch: 8	Batch: 2750	Avg-Loss: 0.6956
+Epoch: 8	Batch: 3000	Avg-Loss: 0.6884
+Epoch: 8	Batch: 3250	Avg-Loss: 0.7022
+Epoch: 8	Batch: 3500	Avg-Loss: 0.6971
+Epoch: 8	Batch: 3750	Avg-Loss: 0.7077
+Epoch: 8	 Avg-Train-Loss: 0.6986
+Epoch: 8	 Avg-Valid-Loss: 0.6965
+Epoch: 8	 Valid_Accuracy: 0.7885
+Epoch : 9
+Epoch: 9	Batch: 0	Avg-Loss: 0.0031
+Epoch: 9	Batch: 250	Avg-Loss: 0.7023
+Epoch: 9	Batch: 500	Avg-Loss: 0.6779
+Epoch: 9	Batch: 750	Avg-Loss: 0.6861
+Epoch: 9	Batch: 1000	Avg-Loss: 0.6970
+Epoch: 9	Batch: 1250	Avg-Loss: 0.6971
+Epoch: 9	Batch: 1500	Avg-Loss: 0.6978
+Epoch: 9	Batch: 1750	Avg-Loss: 0.7038
+Epoch: 9	Batch: 2000	Avg-Loss: 0.6891
+Epoch: 9	Batch: 2250	Avg-Loss: 0.7078
+Epoch: 9	Batch: 2500	Avg-Loss: 0.6850
+Epoch: 9	Batch: 2750	Avg-Loss: 0.7003
+Epoch: 9	Batch: 3000	Avg-Loss: 0.6907
+Epoch: 9	Batch: 3250	Avg-Loss: 0.7064
+Epoch: 9	Batch: 3500	Avg-Loss: 0.6844
+Epoch: 9	Batch: 3750	Avg-Loss: 0.7053
+Epoch: 9	 Avg-Train-Loss: 0.6959
+Epoch: 9	 Avg-Valid-Loss: 0.6211
+Epoch: 9	 Valid_Accuracy: 0.7947
+Epoch : 10
+Epoch: 10	Batch: 0	Avg-Loss: 0.0028
+Epoch: 10	Batch: 250	Avg-Loss: 0.6869
+Epoch: 10	Batch: 500	Avg-Loss: 0.7075
+Epoch: 10	Batch: 750	Avg-Loss: 0.6854
+Epoch: 10	Batch: 1000	Avg-Loss: 0.7168
+Epoch: 10	Batch: 1250	Avg-Loss: 0.6868
+Epoch: 10	Batch: 1500	Avg-Loss: 0.6900
+Epoch: 10	Batch: 1750	Avg-Loss: 0.6960
+Epoch: 10	Batch: 2000	Avg-Loss: 0.6789
+Epoch: 10	Batch: 2250	Avg-Loss: 0.7048
+Epoch: 10	Batch: 2500	Avg-Loss: 0.7043
+Epoch: 10	Batch: 2750	Avg-Loss: 0.6935
+Epoch: 10	Batch: 3000	Avg-Loss: 0.6766
+Epoch: 10	Batch: 3250	Avg-Loss: 0.6840
+Epoch: 10	Batch: 3500	Avg-Loss: 0.6934
+Epoch: 10	Batch: 3750	Avg-Loss: 0.6840
+Epoch: 10	 Avg-Train-Loss: 0.6921
+Epoch: 10	 Avg-Valid-Loss: 0.6752
+Epoch: 10	 Valid_Accuracy: 0.7869
+Epoch : 11
+Epoch: 11	Batch: 0	Avg-Loss: 0.0029
+Epoch: 11	Batch: 250	Avg-Loss: 0.6937
+Epoch: 11	Batch: 500	Avg-Loss: 0.6747
+Epoch: 11	Batch: 750	Avg-Loss: 0.6731
+Epoch: 11	Batch: 1000	Avg-Loss: 0.6763
+Epoch: 11	Batch: 1250	Avg-Loss: 0.6918
+Epoch: 11	Batch: 1500	Avg-Loss: 0.6902
+Epoch: 11	Batch: 1750	Avg-Loss: 0.6772
+Epoch: 11	Batch: 2000	Avg-Loss: 0.6837
+Epoch: 11	Batch: 2250	Avg-Loss: 0.6936
+Epoch: 11	Batch: 2500	Avg-Loss: 0.6908
+Epoch: 11	Batch: 2750	Avg-Loss: 0.6996
+Epoch: 11	Batch: 3000	Avg-Loss: 0.7045
+Epoch: 11	Batch: 3250	Avg-Loss: 0.6906
+Epoch: 11	Batch: 3500	Avg-Loss: 0.6912
+Epoch: 11	Batch: 3750	Avg-Loss: 0.6896
+Epoch: 11	 Avg-Train-Loss: 0.6886
+Epoch: 11	 Avg-Valid-Loss: 0.6439
+Epoch: 11	 Valid_Accuracy: 0.7900
+Epoch : 12
+Epoch: 12	Batch: 0	Avg-Loss: 0.0033
+Epoch: 12	Batch: 250	Avg-Loss: 0.6890
+Epoch: 12	Batch: 500	Avg-Loss: 0.6831
+Epoch: 12	Batch: 750	Avg-Loss: 0.6895
+Epoch: 12	Batch: 1000	Avg-Loss: 0.6932
+Epoch: 12	Batch: 1250	Avg-Loss: 0.6896
+Epoch: 12	Batch: 1500	Avg-Loss: 0.6854
+Epoch: 12	Batch: 1750	Avg-Loss: 0.6817
+Epoch: 12	Batch: 2000	Avg-Loss: 0.6847
+Epoch: 12	Batch: 2250	Avg-Loss: 0.6897
+Epoch: 12	Batch: 2500	Avg-Loss: 0.6726
+Epoch: 12	Batch: 2750	Avg-Loss: 0.6863
+Epoch: 12	Batch: 3000	Avg-Loss: 0.6931
+Epoch: 12	Batch: 3250	Avg-Loss: 0.6988
+Epoch: 12	Batch: 3500	Avg-Loss: 0.6900
+Epoch: 12	Batch: 3750	Avg-Loss: 0.6788
+Epoch: 12	 Avg-Train-Loss: 0.6874
+Epoch: 12	 Avg-Valid-Loss: 0.8056
+Epoch: 12	 Valid_Accuracy: 0.7963
+Epoch : 13
+Epoch: 13	Batch: 0	Avg-Loss: 0.0023
+Epoch: 13	Batch: 250	Avg-Loss: 0.6965
+Epoch: 13	Batch: 500	Avg-Loss: 0.6723
+Epoch: 13	Batch: 750	Avg-Loss: 0.6887
+Epoch: 13	Batch: 1000	Avg-Loss: 0.6873
+Epoch: 13	Batch: 1250	Avg-Loss: 0.6965
+Epoch: 13	Batch: 1500	Avg-Loss: 0.6755
+Epoch: 13	Batch: 1750	Avg-Loss: 0.6945
+Epoch: 13	Batch: 2000	Avg-Loss: 0.6902
+Epoch: 13	Batch: 2250	Avg-Loss: 0.6858
+Epoch: 13	Batch: 2500	Avg-Loss: 0.6855
+Epoch: 13	Batch: 2750	Avg-Loss: 0.6910
+Epoch: 13	Batch: 3000	Avg-Loss: 0.7000
+Epoch: 13	Batch: 3250	Avg-Loss: 0.6881
+Epoch: 13	Batch: 3500	Avg-Loss: 0.6746
+Epoch: 13	Batch: 3750	Avg-Loss: 0.6883
+Epoch: 13	 Avg-Train-Loss: 0.6875
+Epoch: 13	 Avg-Valid-Loss: 0.6207
+Epoch: 13	 Valid_Accuracy: 0.7854
+Epoch : 14
+Epoch: 14	Batch: 0	Avg-Loss: 0.0021
+Epoch: 14	Batch: 250	Avg-Loss: 0.6726
+Epoch: 14	Batch: 500	Avg-Loss: 0.7033
+Epoch: 14	Batch: 750	Avg-Loss: 0.7032
+Epoch: 14	Batch: 1000	Avg-Loss: 0.6680
+Epoch: 14	Batch: 1250	Avg-Loss: 0.6970
+Epoch: 14	Batch: 1500	Avg-Loss: 0.6821
+Epoch: 14	Batch: 1750	Avg-Loss: 0.6948
+Epoch: 14	Batch: 2000	Avg-Loss: 0.6772
+Epoch: 14	Batch: 2250	Avg-Loss: 0.6848
+Epoch: 14	Batch: 2500	Avg-Loss: 0.6802
+Epoch: 14	Batch: 2750	Avg-Loss: 0.6859
+Epoch: 14	Batch: 3000	Avg-Loss: 0.6900
+Epoch: 14	Batch: 3250	Avg-Loss: 0.6776
+Epoch: 14	Batch: 3500	Avg-Loss: 0.6889
+Epoch: 14	Batch: 3750	Avg-Loss: 0.6838
+Epoch: 14	 Avg-Train-Loss: 0.6861
+Epoch: 14	 Avg-Valid-Loss: 0.6348
+Epoch: 14	 Valid_Accuracy: 0.7885
